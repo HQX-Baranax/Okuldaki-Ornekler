@@ -1,0 +1,23 @@
+C:\Users\LAB1-OGR\source\repos\deneme\deneme\bin\Debug\deneme.exe.config
+C:\Users\LAB1-OGR\source\repos\deneme\deneme\bin\Debug\deneme.exe
+C:\Users\LAB1-OGR\source\repos\deneme\deneme\bin\Debug\deneme.pdb
+C:\Users\LAB1-OGR\source\repos\deneme\deneme\obj\Debug\deneme.csprojAssemblyReference.cache
+C:\Users\LAB1-OGR\source\repos\deneme\deneme\obj\Debug\deneme.Properties.Resources.resources
+C:\Users\LAB1-OGR\source\repos\deneme\deneme\obj\Debug\deneme.csproj.GenerateResource.cache
+C:\Users\LAB1-OGR\source\repos\deneme\deneme\obj\Debug\deneme.exe
+C:\Users\LAB1-OGR\source\repos\deneme\deneme\obj\Debug\deneme.pdb
+C:\Users\LAB1-OGR\source\repos\deneme\deneme\obj\Debug\deneme.GirisForm.resources
+C:\Users\LAB1-OGR\source\repos\deneme\deneme\obj\Debug\deneme.Form2.resources
+C:\Users\LAB1-OGR\source\repos\deneme\deneme\obj\Debug\deneme.Form3.resources
+F:\Visual Studio(C#)\deneme\deneme\bin\Debug\deneme.exe.config
+F:\Visual Studio(C#)\deneme\deneme\bin\Debug\deneme.exe
+F:\Visual Studio(C#)\deneme\deneme\bin\Debug\deneme.pdb
+F:\Visual Studio(C#)\deneme\deneme\obj\Debug\deneme.csproj.AssemblyReference.cache
+F:\Visual Studio(C#)\deneme\deneme\obj\Debug\deneme.GirisForm.resources
+F:\Visual Studio(C#)\deneme\deneme\obj\Debug\deneme.Form2.resources
+F:\Visual Studio(C#)\deneme\deneme\obj\Debug\deneme.Form3.resources
+F:\Visual Studio(C#)\deneme\deneme\obj\Debug\deneme.Properties.Resources.resources
+F:\Visual Studio(C#)\deneme\deneme\obj\Debug\deneme.csproj.GenerateResource.cache
+F:\Visual Studio(C#)\deneme\deneme\obj\Debug\deneme.csproj.CoreCompileInputs.cache
+F:\Visual Studio(C#)\deneme\deneme\obj\Debug\deneme.exe
+F:\Visual Studio(C#)\deneme\deneme\obj\Debug\deneme.pdb

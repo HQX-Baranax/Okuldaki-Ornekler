@@ -1,0 +1,9 @@
+C:\Users\LAB1-OGR\source\repos\okuldadenemebilmemekac\okuldadenemebilmemekac\bin\Debug\okuldadenemebilmemekac.exe.config
+C:\Users\LAB1-OGR\source\repos\okuldadenemebilmemekac\okuldadenemebilmemekac\bin\Debug\okuldadenemebilmemekac.exe
+C:\Users\LAB1-OGR\source\repos\okuldadenemebilmemekac\okuldadenemebilmemekac\bin\Debug\okuldadenemebilmemekac.pdb
+C:\Users\LAB1-OGR\source\repos\okuldadenemebilmemekac\okuldadenemebilmemekac\obj\Debug\casrpımtabloosu.csprojAssemblyReference.cache
+C:\Users\LAB1-OGR\source\repos\okuldadenemebilmemekac\okuldadenemebilmemekac\obj\Debug\okuldadenemebilmemekac.Form1.resources
+C:\Users\LAB1-OGR\source\repos\okuldadenemebilmemekac\okuldadenemebilmemekac\obj\Debug\okuldadenemebilmemekac.Properties.Resources.resources
+C:\Users\LAB1-OGR\source\repos\okuldadenemebilmemekac\okuldadenemebilmemekac\obj\Debug\casrpımtabloosu.csproj.GenerateResource.cache
+C:\Users\LAB1-OGR\source\repos\okuldadenemebilmemekac\okuldadenemebilmemekac\obj\Debug\okuldadenemebilmemekac.exe
+C:\Users\LAB1-OGR\source\repos\okuldadenemebilmemekac\okuldadenemebilmemekac\obj\Debug\okuldadenemebilmemekac.pdb

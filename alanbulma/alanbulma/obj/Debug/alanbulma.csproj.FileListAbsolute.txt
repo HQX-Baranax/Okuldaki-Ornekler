@@ -1,0 +1,9 @@
+C:\Users\LAB1-OGR\source\repos\alanbulma\alanbulma\bin\Debug\alanbulma.exe.config
+C:\Users\LAB1-OGR\source\repos\alanbulma\alanbulma\bin\Debug\alanbulma.exe
+C:\Users\LAB1-OGR\source\repos\alanbulma\alanbulma\bin\Debug\alanbulma.pdb
+C:\Users\LAB1-OGR\source\repos\alanbulma\alanbulma\obj\Debug\alanbulma.csprojAssemblyReference.cache
+C:\Users\LAB1-OGR\source\repos\alanbulma\alanbulma\obj\Debug\alanbulma.Form1.resources
+C:\Users\LAB1-OGR\source\repos\alanbulma\alanbulma\obj\Debug\alanbulma.Properties.Resources.resources
+C:\Users\LAB1-OGR\source\repos\alanbulma\alanbulma\obj\Debug\alanbulma.csproj.GenerateResource.cache
+C:\Users\LAB1-OGR\source\repos\alanbulma\alanbulma\obj\Debug\alanbulma.exe
+C:\Users\LAB1-OGR\source\repos\alanbulma\alanbulma\obj\Debug\alanbulma.pdb
