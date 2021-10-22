@@ -1,0 +1,9 @@
+C:\Users\LAB1-OGR\source\repos\ikiforcarpma\ikiforcarpma\bin\Debug\ikiforcarpma.exe.config
+C:\Users\LAB1-OGR\source\repos\ikiforcarpma\ikiforcarpma\bin\Debug\ikiforcarpma.exe
+C:\Users\LAB1-OGR\source\repos\ikiforcarpma\ikiforcarpma\bin\Debug\ikiforcarpma.pdb
+C:\Users\LAB1-OGR\source\repos\ikiforcarpma\ikiforcarpma\obj\Debug\ikiforcarpma.csprojAssemblyReference.cache
+C:\Users\LAB1-OGR\source\repos\ikiforcarpma\ikiforcarpma\obj\Debug\ikiforcarpma.Form1.resources
+C:\Users\LAB1-OGR\source\repos\ikiforcarpma\ikiforcarpma\obj\Debug\ikiforcarpma.Properties.Resources.resources
+C:\Users\LAB1-OGR\source\repos\ikiforcarpma\ikiforcarpma\obj\Debug\ikiforcarpma.csproj.GenerateResource.cache
+C:\Users\LAB1-OGR\source\repos\ikiforcarpma\ikiforcarpma\obj\Debug\ikiforcarpma.exe
+C:\Users\LAB1-OGR\source\repos\ikiforcarpma\ikiforcarpma\obj\Debug\ikiforcarpma.pdb

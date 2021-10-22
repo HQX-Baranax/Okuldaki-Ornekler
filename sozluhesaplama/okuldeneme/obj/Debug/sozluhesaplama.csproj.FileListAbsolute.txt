@@ -1,0 +1,9 @@
+F:\Visual Studio(C#)\sozluhesaplama\okuldeneme\bin\Debug\okuldeneme.exe.config
+F:\Visual Studio(C#)\sozluhesaplama\okuldeneme\bin\Debug\okuldeneme.exe
+F:\Visual Studio(C#)\sozluhesaplama\okuldeneme\bin\Debug\okuldeneme.pdb
+F:\Visual Studio(C#)\sozluhesaplama\okuldeneme\obj\Debug\sozluhesaplama.csprojAssemblyReference.cache
+F:\Visual Studio(C#)\sozluhesaplama\okuldeneme\obj\Debug\okuldeneme.Form1.resources
+F:\Visual Studio(C#)\sozluhesaplama\okuldeneme\obj\Debug\okuldeneme.Properties.Resources.resources
+F:\Visual Studio(C#)\sozluhesaplama\okuldeneme\obj\Debug\sozluhesaplama.csproj.GenerateResource.cache
+F:\Visual Studio(C#)\sozluhesaplama\okuldeneme\obj\Debug\okuldeneme.exe
+F:\Visual Studio(C#)\sozluhesaplama\okuldeneme\obj\Debug\okuldeneme.pdb

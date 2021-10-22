@@ -1,0 +1,9 @@
+C:\Users\LAB1-OGR\source\repos\okuldeneme\okuldeneme\bin\Debug\okuldeneme.exe.config
+C:\Users\LAB1-OGR\source\repos\okuldeneme\okuldeneme\bin\Debug\okuldeneme.exe
+C:\Users\LAB1-OGR\source\repos\okuldeneme\okuldeneme\bin\Debug\okuldeneme.pdb
+C:\Users\LAB1-OGR\source\repos\okuldeneme\okuldeneme\obj\Debug\okuldeneme.csprojAssemblyReference.cache
+C:\Users\LAB1-OGR\source\repos\okuldeneme\okuldeneme\obj\Debug\okuldeneme.Form1.resources
+C:\Users\LAB1-OGR\source\repos\okuldeneme\okuldeneme\obj\Debug\okuldeneme.Properties.Resources.resources
+C:\Users\LAB1-OGR\source\repos\okuldeneme\okuldeneme\obj\Debug\okuldeneme.csproj.GenerateResource.cache
+C:\Users\LAB1-OGR\source\repos\okuldeneme\okuldeneme\obj\Debug\okuldeneme.exe
+C:\Users\LAB1-OGR\source\repos\okuldeneme\okuldeneme\obj\Debug\okuldeneme.pdb

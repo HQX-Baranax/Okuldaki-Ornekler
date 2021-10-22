@@ -1,0 +1,9 @@
+C:\Users\LAB1-OGR\source\repos\ornekdeneme\ornekdeneme\bin\Debug\ornekdeneme.exe.config
+C:\Users\LAB1-OGR\source\repos\ornekdeneme\ornekdeneme\bin\Debug\ornekdeneme.exe
+C:\Users\LAB1-OGR\source\repos\ornekdeneme\ornekdeneme\bin\Debug\ornekdeneme.pdb
+C:\Users\LAB1-OGR\source\repos\ornekdeneme\ornekdeneme\obj\Debug\ornekdeneme.csprojAssemblyReference.cache
+C:\Users\LAB1-OGR\source\repos\ornekdeneme\ornekdeneme\obj\Debug\ornekdeneme.Form1.resources
+C:\Users\LAB1-OGR\source\repos\ornekdeneme\ornekdeneme\obj\Debug\ornekdeneme.Properties.Resources.resources
+C:\Users\LAB1-OGR\source\repos\ornekdeneme\ornekdeneme\obj\Debug\ornekdeneme.csproj.GenerateResource.cache
+C:\Users\LAB1-OGR\source\repos\ornekdeneme\ornekdeneme\obj\Debug\ornekdeneme.exe
+C:\Users\LAB1-OGR\source\repos\ornekdeneme\ornekdeneme\obj\Debug\ornekdeneme.pdb

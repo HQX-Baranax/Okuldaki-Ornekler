@@ -1,0 +1,19 @@
+C:\Users\LAB1-OGR\source\repos\okuledenemebilmemkac\okuledenemebilmemkac\bin\Debug\okuledenemebilmemkac.exe.config
+C:\Users\LAB1-OGR\source\repos\okuledenemebilmemkac\okuledenemebilmemkac\bin\Debug\okuledenemebilmemkac.exe
+C:\Users\LAB1-OGR\source\repos\okuledenemebilmemkac\okuledenemebilmemkac\bin\Debug\okuledenemebilmemkac.pdb
+C:\Users\LAB1-OGR\source\repos\okuledenemebilmemkac\okuledenemebilmemkac\obj\Debug\okuledenemebilmemkac.csprojAssemblyReference.cache
+C:\Users\LAB1-OGR\source\repos\okuledenemebilmemkac\okuledenemebilmemkac\obj\Debug\okuledenemebilmemkac.Form1.resources
+C:\Users\LAB1-OGR\source\repos\okuledenemebilmemkac\okuledenemebilmemkac\obj\Debug\okuledenemebilmemkac.Properties.Resources.resources
+C:\Users\LAB1-OGR\source\repos\okuledenemebilmemkac\okuledenemebilmemkac\obj\Debug\okuledenemebilmemkac.csproj.GenerateResource.cache
+C:\Users\LAB1-OGR\source\repos\okuledenemebilmemkac\okuledenemebilmemkac\obj\Debug\okuledenemebilmemkac.exe
+C:\Users\LAB1-OGR\source\repos\okuledenemebilmemkac\okuledenemebilmemkac\obj\Debug\okuledenemebilmemkac.pdb
+F:\Visual Studio(C#)\okuledenemebilmemkac\okuledenemebilmemkac\bin\Debug\okuledenemebilmemkac.exe.config
+F:\Visual Studio(C#)\okuledenemebilmemkac\okuledenemebilmemkac\bin\Debug\okuledenemebilmemkac.exe
+F:\Visual Studio(C#)\okuledenemebilmemkac\okuledenemebilmemkac\bin\Debug\okuledenemebilmemkac.pdb
+F:\Visual Studio(C#)\okuledenemebilmemkac\okuledenemebilmemkac\obj\Debug\okuledenemebilmemkac.csproj.AssemblyReference.cache
+F:\Visual Studio(C#)\okuledenemebilmemkac\okuledenemebilmemkac\obj\Debug\okuledenemebilmemkac.Form1.resources
+F:\Visual Studio(C#)\okuledenemebilmemkac\okuledenemebilmemkac\obj\Debug\okuledenemebilmemkac.Properties.Resources.resources
+F:\Visual Studio(C#)\okuledenemebilmemkac\okuledenemebilmemkac\obj\Debug\okuledenemebilmemkac.csproj.GenerateResource.cache
+F:\Visual Studio(C#)\okuledenemebilmemkac\okuledenemebilmemkac\obj\Debug\okuledenemebilmemkac.csproj.CoreCompileInputs.cache
+F:\Visual Studio(C#)\okuledenemebilmemkac\okuledenemebilmemkac\obj\Debug\okuledenemebilmemkac.exe
+F:\Visual Studio(C#)\okuledenemebilmemkac\okuledenemebilmemkac\obj\Debug\okuledenemebilmemkac.pdb
