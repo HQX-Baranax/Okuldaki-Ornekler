@@ -1,1 +1,1 @@
-# Okuldaki-Ornekler
+# Okulda yapılan örnekler
